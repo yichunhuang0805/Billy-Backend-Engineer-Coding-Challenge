@@ -14,7 +14,8 @@ To run the application, follow these steps:
 1. Open your terminal or command prompt
 2. Naviage to the folder containing the scripts(count.py, test.py), encodes.csv and decodes.json
 3. Run the script using Python:
-    ```python main.py
+    ```bash
+    python main.py
 
 ## Design Decisions
 Use of Dictionary for Encodes.csv Data
