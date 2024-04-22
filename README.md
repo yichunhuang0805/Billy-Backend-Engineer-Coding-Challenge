@@ -13,7 +13,7 @@ This program processes data from CSV and JSON files to calculate the number of c
 To run the application, follow these steps:
 1. Open your terminal or command prompt
 2. Naviage to the folder containing the scripts(count.py, test.py), encodes.csv and decodes.json
-3. Run the script using Python:
+3. Run the script:
     ```bash
     make run
 
