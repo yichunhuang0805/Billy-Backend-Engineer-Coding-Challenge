@@ -1,13 +1,13 @@
-2024-04-22 00:05:20,444 - INFO - Data loaded successfully from CSV and JSON.
-2024-04-22 00:05:20,445 - INFO - 0 rows containing null values were found and deleted.
-2024-04-22 00:05:20,463 - INFO - 0 rows not starting with 'http://' were found and deleted.
-2024-04-22 00:05:20,507 - INFO - Data loaded successfully from CSV and JSON.
-2024-04-22 00:05:20,508 - INFO - 0 rows containing null values were found and deleted.
-2024-04-22 00:05:20,520 - INFO - 0 rows not starting with 'http://' were found and deleted.
-2024-04-22 00:05:20,522 - INFO - Click counts updated successfully.
-2024-04-22 00:05:20,523 - INFO - Results generated and sorted successfully.
-2024-04-22 00:05:20,566 - INFO - Data loaded successfully from CSV and JSON.
-2024-04-22 00:05:20,606 - INFO - Data loaded successfully from CSV and JSON.
-2024-04-22 00:05:20,607 - INFO - 0 rows containing null values were found and deleted.
-2024-04-22 00:05:20,618 - INFO - 0 rows not starting with 'http://' were found and deleted.
-2024-04-22 00:05:20,620 - INFO - Click counts updated successfully.
+2024-04-22 00:59:05,505 - INFO - Data loaded successfully from CSV and JSON.
+2024-04-22 00:59:05,506 - INFO - 0 rows containing null values were found and deleted.
+2024-04-22 00:59:05,522 - INFO - 0 rows not starting with 'http://' were found and deleted.
+2024-04-22 00:59:05,567 - INFO - Data loaded successfully from CSV and JSON.
+2024-04-22 00:59:05,567 - INFO - 0 rows containing null values were found and deleted.
+2024-04-22 00:59:05,579 - INFO - 0 rows not starting with 'http://' were found and deleted.
+2024-04-22 00:59:05,581 - INFO - Click counts updated successfully.
+2024-04-22 00:59:05,582 - INFO - Results generated and sorted successfully.
+2024-04-22 00:59:05,625 - INFO - Data loaded successfully from CSV and JSON.
+2024-04-22 00:59:05,667 - INFO - Data loaded successfully from CSV and JSON.
+2024-04-22 00:59:05,668 - INFO - 0 rows containing null values were found and deleted.
+2024-04-22 00:59:05,679 - INFO - 0 rows not starting with 'http://' were found and deleted.
+2024-04-22 00:59:05,681 - INFO - Click counts updated successfully.
