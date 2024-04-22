@@ -17,6 +17,14 @@ To run the application, follow these steps:
     ```bash
     make run
 
+## Test the Application
+To run unit tests for each function, follow these steps:
+1. Open your terminal or command prompt
+2. Naviage to the folder containing the scripts(count.py, test.py), encodes.csv and decodes.json
+3. Run the test:
+    ```bash
+    make test
+
 ## Design Decisions
 ### Use of Dictionary for Encodes.csv Data
 The decision to use a dictionary to store data from encodes.csv was driven by the need for efficient lookup and manipulation of key-value pairs. Dictionaries offer constant-time lookup, making them ideal for quickly retrieving information based on a unique identifier. In this case, combining the domain and hash columns into a composite key provides a unique identifier for each record.
